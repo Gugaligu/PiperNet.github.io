@@ -184,7 +184,7 @@ body{
     .ssilki{
         display: inline-flex;
         justify-content: end;
-        width: 60%;
-        padding-left: 30%;
+        width: 40%;
+        padding-left: 50%;
     }
 }
